@@ -3,3 +3,6 @@ Testing is one of the stream in software sector
 manual testing and automation testing
 manual testing means tester done the testing manually 
 automation testing means tester can done testing automatically by using tools.
+one of the famous tool is Selenium.
+selenium automation testing is very usefull. 
+it is open source software.
