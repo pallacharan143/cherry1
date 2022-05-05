@@ -6,3 +6,8 @@ automation testing means tester can done testing automatically by using tools.
 one of the famous tool is Selenium.
 selenium automation testing is very usefull. 
 it is open source software.
+
+
+ Selenium WebDriver is a collection of open source APIs which are used to automate the testing of a web application.
+ Description: Selenium WebDriver tool is used to automate web application testing to verify that it works as expected. 
+ It supports many browsers such as Firefox, Chrome, IE, and Safari.
