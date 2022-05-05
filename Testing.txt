@@ -1,8 +1,12 @@
-
+APPLICATIONS
 Testing is one of the stream in software sector
-manual testing and automation testing
-manual testing means tester done the testing manually 
-automation testing means tester can done testing automatically by using tools.
-one of the famous tool is Selenium.
-selenium automation testing is very usefull. 
-it is open source software.
+Open Source and Portable – Selenium is an open source and portable Web testing Framework.
+Combination of tool and DSL – Selenium is combination of tools and DSL (Domain Specific Language) in order to carry out various types of tests.
+Easier to understand and implement – Selenium commands are categorized in terms of different classes which make it easier to understand and implement.
+Less burden and stress for testers – As mentioned above, the amount of time required to do testing repeated test scenarios on each and every new build is reduced to zero, almost. Hence, the burden of tester gets reduced.
+Cost reduction for the Business Clients – The Business needs to pay the testers their salary, which is saved using automation testing tool. The automation not only saves time but gets cost benefits too, to the business.
+Increased test coverage – With the uses of Selenium, testing time gets reduced and hence the tester can do more testing on other test scenarios at the same time.
+Reduce test execution time – Selenium supports parallel test execution that reduce the time taken in executing parallel tests.
+Lesser resources required – Selenium requires lesser resources when compared to its competitors like UFT, RFT, etc.
+Supports Multiple Programming Languages – C#, Java, Python, PHP, Ruby, Perl, and JavaScript
+Supports Multiple Operating Systems – Android, iOS, Windows, Linux, Mac, Solaris.
